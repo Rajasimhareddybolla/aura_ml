@@ -33,6 +33,8 @@ This project is designed to provide real-time threat detection for women's safet
 - **Frameworks**: TensorFlow, Keras, OpenCV
 - **Libraries**: Ultralytics (for object detection and tracking), Weights & Biases (for model monitoring), Streamlit (for front-end application)
 - **Machine Learning Models**:
+  - ultralytis tracking and object detection
+  - openCV
   - Xception Network for person detection and gender classification
   - Anomaly Detection using the model from Georgescu et al. (2021)
 - **Deployment**: Azure Virtual Machines, Docker
